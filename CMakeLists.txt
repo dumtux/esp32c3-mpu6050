@@ -5,5 +5,5 @@
 cmake_minimum_required(VERSION 3.16)
 
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
-project(mpu_can)
+project(esp32c3-mpu6050-can)
 set(EXTRA_COMPONENT_DIRS ./components)
