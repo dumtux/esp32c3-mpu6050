@@ -1,5 +1,7 @@
 # ESP32-C3 MPU6050 Module
 
+Sponsored by [TowerSoftware](http://www.towersoftwareltd.com/)
+
 <img src="https://raw.githubusercontent.com/hotteshen/esp32c3-mpu6050/master/doc/pcba.png" style="width: 50%">
 
 
